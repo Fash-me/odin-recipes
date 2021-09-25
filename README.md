@@ -1,0 +1,1 @@
+This is an introduction to the odin recipes project. I will be doing a lot of git commands. I don't really know how this introduction stuff works but this is what I can think of.
