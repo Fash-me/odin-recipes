@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(110, 43, 31);
+}
+#heading1,
+#heading2,
+#heading3,
+#heading4,
+#heading5 {
+    color: wheat;
+    text-align: center;
+}
+#chicken_piccata{
+    position: relative; 
+    left: 350px;   
+    width: 600px;
+    height: auto;
+}
+#homepage{
+    background-color: rgb(189, 116, 153);
+}

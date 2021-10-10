@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(28, 114, 105);
+}
+.head{
+    color: wheat;
+    font-size: 50px;
+    text-align: center;
+    font-weight: bolder;
+}
+.guacamole_button,
+.chicken_piccata_button,
+.apple_pie_button {
+    background-color: rgb(189, 116, 153);
+    color: white;
+}
+.gaucamole,
+.chicken_piccata,
+.apple_pie {
+    width: 600px;
+}
